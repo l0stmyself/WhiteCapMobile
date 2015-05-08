@@ -1,4 +1,4 @@
-﻿<%@ Master Language="VB" CodeFile="Login.master.vb" Inherits="Login" %>
+﻿<%@ Master Language="VB" CodeFile="Main.master.vb" Inherits="Main" %>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,8 +15,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="Content/bootstrap.css" rel="stylesheet" />
-    <link href="Content/LoginPage.css" rel="stylesheet" />
-
+    <link href="Content/MainStyle.css" rel="stylesheet" />
     <!-- Custom styles for this template -->
     <%--<link href="navbar.css" rel="stylesheet">--%>
 
@@ -56,4 +55,3 @@
           <%--</form>--%>
   </body>
 </html>
-
